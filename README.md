@@ -64,7 +64,7 @@ scikit-learn — For building and evaluating machine learning models.
 
 👩‍💻 Author
 
-Shraddha (@codetinkerbell)
+Rasika Govindpurkar (@codetinkerbell)
 Made with ❤ using Python.
 
 
